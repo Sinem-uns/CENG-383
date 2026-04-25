@@ -1,0 +1,4 @@
+algorithm,graph_type,nodes,time_seconds,memory_bytes
+Dijkstra,Full NY graph,264346,1.2377919000573456,19923240
+Bellman-Ford,Subgraph,1000,0.20163269992917776,214944
+BMSSP-like,Subgraph,1000,0.014194800052791834,55560
